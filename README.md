@@ -1,2 +1,1 @@
 # Minecraft
-Minecraft Mods
